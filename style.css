@@ -343,7 +343,6 @@ h3{
   ul {
     font-size: 15px;
     width: 480px;
-    border: 2px solid yellow;
     margin-left: -150px;
   }
 }
@@ -356,7 +355,6 @@ h3{
   ul {
     font-size: 15px;
     width: 400px;
-    border: 2px solid yellow;
     margin-left: -170px;
   }
 }
@@ -364,7 +362,6 @@ h3{
   ul {
     font-size: 15px;
     width: 400px;
-    border: 2px solid yellow;
     margin-left: -200px;
   }
 }
